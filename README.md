@@ -52,7 +52,7 @@ This project uses the dataset across two workflows: **clustering** and **classif
 ├── Dataset\_clustering.csv                                           # Dataset after clustering, used in classification
 └── README.md                                                        # Project documentation
 
-````
+```
 
 ---
 
@@ -81,7 +81,7 @@ This project uses the dataset across two workflows: **clustering** and **classif
    ```bash
    git clone https://github.com/yourusername/ml-classification-clustering-project.git
    cd ml-classification-clustering-project
-````
+   ````
 
 2. Install dependencies:
 
@@ -96,7 +96,7 @@ This project uses the dataset across two workflows: **clustering** and **classif
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Ananta Boemi Adji**
 Machine Learning Enthusiast | Computer Engineering Student
@@ -106,5 +106,3 @@ Machine Learning Enthusiast | Computer Engineering Student
 ## 📄 License
 
 This project is intended for educational and research purposes. Feel free to use and reference with proper attribution.
-
-```
